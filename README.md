@@ -1,4 +1,4 @@
-#memory-management
+**memory-management**
 
 Implementation of key standard library features needed for user processes in a small operating system (WeensyOS).
 Includes:
